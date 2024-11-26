@@ -10,6 +10,11 @@ It specifically:
 - Provides both dry-run and execution modes
 - Maintains the original file structure when uploading to S3
 
+### HTML appearance
+
+The webpage used by the NY Genome Center looks as follows (attached). The webpage contains the linked files inside the following hierarchical organization: `<ul<li><a></a></li><li><a></a></li>...</ul'.
+![HTML_screenshot](./Images/HTML_picture.png)
+
 ## System Requirements
 
 - UNIX-based operating system (Linux, macOS)
