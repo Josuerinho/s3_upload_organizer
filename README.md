@@ -12,7 +12,17 @@ It specifically:
 
 ### HTML appearance
 
-The webpage used by the NY Genome Center looks as follows (attached). The webpage contains the linked files inside the following hierarchical organization: `<ul<li><a></a></li><li><a></a></li>...</ul'.
+The webpage used by the NY Genome Center looks as follows (attached). The webpage contains the linked files inside the following HTML hierarchical organization: 
+html:
+<ul>
+  <li>
+    <a href = "file1.fastq"> File1.fastq</a>
+  </li>
+  <li>
+    <a href = "file2.fastq"> File2.fastq</a>
+  </li>
+</ul>
+
 ![HTML_screenshot](./Images/HTML_content.png)
 
 ## System Requirements
