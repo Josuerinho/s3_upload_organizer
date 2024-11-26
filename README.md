@@ -14,6 +14,7 @@ It specifically:
 
 The webpage used by the NY Genome Center looks as follows (attached). The webpage contains the linked files inside the following HTML hierarchical organization: 
 html:
+```
 <ul>
   <li>
     <a href = "file1.fastq"> File1.fastq</a>
@@ -22,6 +23,7 @@ html:
     <a href = "file2.fastq"> File2.fastq</a>
   </li>
 </ul>
+```
 
 ![HTML_screenshot](./Images/HTML_content.png)
 
